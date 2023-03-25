@@ -6,7 +6,7 @@
  * @source https://github.com/AdaelynXIV/RoundedDark
 */
 
-@import url('https://github.com/shahilmohd/CustomRoundedDarkFont/blob/main/src/roundeddark.css');
+@import url('https://adaelynxiv.github.io/RoundedDark/src/roundeddark.css');
 
 /* #  Plugin Fixes/Edits  # */
 /* Uncomment a plugin Import URL if you use a plugin that's listed here */
@@ -15,9 +15,10 @@
 /*@import url('https://adaelynxiv.github.io/RoundedDark/src/plugins/channeltabs.css');*/
 
 /* Customizable Variables */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200;1,300;1,400;1,500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
 :root {
-    --font-primary: 'Poppins', sans-serif;
+    --font-primary: 'Fira Sans Condensed', sans-serif;
     --custom-background: #576aed;
 
     --blurple: #576aed;
