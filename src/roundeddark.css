@@ -476,7 +476,7 @@ a[href="/store"]:hover:before{
 {border-radius:var(--radius)!important;}
 .channelTabs-tabName{
     font-family:"gg sans","Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 1rem;
+    font-size: 0.8rem;
     font-weight: 500;
 }
 .channelTabs-closeTab,
